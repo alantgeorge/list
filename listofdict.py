@@ -1,2 +1,2 @@
-x[{"name:""anu","age:"20}{"name:","raju","age:"20}]
+x=[{"name":"anu","age": 22 },{"name":"raju","age":20}]
 print(x)
